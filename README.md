@@ -9,7 +9,7 @@
 <img src="https://lh3.googleusercontent.com/pw/AMWts8D4VpPrdBS_dGQUyw8zxfE0nvLT-jaPX00ezzPR41sXgtljoyovsXyrIJqxWAOyRKPY4_kFEWLoLImytA3rmzoxh02-aQX8Ol5H_yqg0lqE6Tvjs21VqvTHz3f5L4Yty_pVC2jPhjHLJrQjz--KrYu_=w1600-h120-no?authuser=0" width=800 />
  
  
- <p>Me encuentro <strong>estudiando</strong> en ratos y cuando puedo <strong>C#</strong> para backend &nbsp<img src="https://lh3.googleusercontent.com/pw/AMWts8Bf2l8IrvjkyVIVB9tDVzgHF_kMJq3lShrZk6qGWVjeRwzjCz71jV7Una19QSSJC7vFoqQaoJLvxhMTkfa-Bi_cldsJSZUN2lWwBFOFzM0ruI5MnWpY8TGyVovfFo85dO7dupzsTk0ZqAbhS-xv-pni=w280-h508-no?authuser=0" width=28 height=50/></p>
+ <p>Me encuentro <strong>estudiando</strong> en ratos y cuando puedo <strong>C#</strong> para backend &nbsp<img src="https://lh3.googleusercontent.com/pw/AJFCJaXEZ0-zCccKvqkaGMIsDVbUkeKP8S1XSl2MEJ4y9K3WaxMPPHO7co8zYBtu58ZcU1MHWIJTeaNs2WnN3AuDsoHv0rqAn1TjUKyien3AWxu296iesDjuFGfwTa00dlo2N5cESVRTGK4HxldCdX4VFR2R=w1600-h204-s-no?authuser=0" width=28 height=50/></p>
  
  <img src ="https://lh3.googleusercontent.com/pw/AMWts8CezJrO93OVHVqCD_fHdtw7Hiz7ck1OlCLL3V9Y4Cd80vXHDK1TT-lChEyiqZwAFvJTHwBPQX-NQda8PUCXmtso5VoUc9_IT6sbA1zMvHpOqGEsiVcw-dt6SwX84pjzKUiqb-FLlsTFpOQQdER43bRi=w108-h125-no?authuser=0" width=60 height=66 /> 
  
