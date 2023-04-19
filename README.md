@@ -5,8 +5,7 @@
  
  <p>Desarrollador web - Inicie diseñando, pasando a hacer animaciones luego documentales sobre emulación y preservación de abandonware me puse a programar frontend web y luego bases de datos y backend ahora desarrollo mi propio sitio para salvaguardar el arte de los juegos retro</p>
  
- <p>Algunas de las tecnologías que domino:<img src ="https://lh3.googleusercontent.com/pw/AMWts8ACcbrg7c6tsXumfYC3HEPFx6DKZ15NY1pAKR-jqfGgd6cVCINud3ztBZI-k2VPV1G7KSnlmmuH0arizAc9_JiW5ZKcUKhFn78uXUYl3VxDtrziT4-LcCaL7laKkwpxXXptjrC4jjoQGigt-EpAQHzd=w506-h407-no?authuser=0" width=42 height=32/> </p>
-<img src="https://lh3.googleusercontent.com/pw/AMWts8D4VpPrdBS_dGQUyw8zxfE0nvLT-jaPX00ezzPR41sXgtljoyovsXyrIJqxWAOyRKPY4_kFEWLoLImytA3rmzoxh02-aQX8Ol5H_yqg0lqE6Tvjs21VqvTHz3f5L4Yty_pVC2jPhjHLJrQjz--KrYu_=w1600-h120-no?authuser=0" width=800 />
+ <p>Algunas de las tecnologías que domino:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaX7uZ0cXRm7eXmAKgAT3rgBG4AtBzJA2Z6KVP_xM04ybjasVUQGCeDKGPMUClUg6NufE9Lu-t3qlvLwiyJaVAjndkBrqMiejcmB0ENf9e_JvukXH5-6u-qVMVLjCrQxTqaeuTG-qGUtzc36apG35n7y=w1280-h163-s-no?authuser=0" width=800 />
  
  
  <p>Me encuentro <strong>estudiando</strong> en ratos y cuando puedo <strong>C#</strong> para backend &nbsp<img src="https://lh3.googleusercontent.com/pw/AJFCJaWbn0C--MZXa2CcbDnUVkWa4yCdojclvi2axiJmQoKgJQGhzSnF4pCTLScfPe5MJge2yjyvUPOzeXOrfdmvvpingb-jSfk0egxRtEL2TYZLhdDqiAxb2kBmj8FSMEotytwVsCWwNeJSBf-tzjwlGD9r=w280-h508-s-no?authuser=0" width=28 height=50/></p>
