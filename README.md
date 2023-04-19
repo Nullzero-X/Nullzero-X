@@ -3,7 +3,9 @@
  
  <h2>Diseñador-Programador/Web</h2>
  
- <p>Desarrollador web - Inicie diseñando, pasando a hacer animaciones luego documentales sobre emulación y preservación de abandonware me puse a programar frontend web y luego bases de datos y backend ahora desarrollo mi propio sitio para salvaguardar el arte de los juegos retro</p>
+ <p>Desarrollador web - Inicie diseñando, pasando a hacer animaciones luego documentales sobre emulación y preservación de abandonware me puse a programar frontend web y luego bases de datos y backend ahora desarrollo mi propio sitio para salvaguardar el arte de los juegos retro <img src=" https://lh3.googleusercontent.com/pw/AJFCJaXQ_Lx3RTVepUdHfyjqXUsMDk2xRVHXKN7fZSAXIdy90yAHC6uqQtJCf1QeFXQs16AtKY0_rH5-l5v873FqWybJwuWgN4p1sxhBsFDf4YmlfeCGEEKCATwZ1dhyjn_9YII7AQ319XH3QAux47L5yinI=w506-h407-s-no?authuser=0" width=28 height=50/></p>
+ 
+
  
  <p>Algunas de las tecnologías que domino <strong>DISEÑO</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaWQU_WR806J_SlhhH-ryu2iQpIULH6m3bcx0ljfHe_29My0LBgQJBbmp7cfnygLWkVbKI-kAHpu8svhoYPxJjfmYKobZyQ-BKMdCDHEbcfKXlpRNjYIauHwudGBOwcNVc1oLtQ1lmNN8X8UDUFk-F6G=w1280-h163-s-no?authuser=0" width=800 />
  
