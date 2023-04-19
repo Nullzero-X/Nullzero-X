@@ -7,7 +7,7 @@
  
 
  
- <p>Algunas de las tecnologías que domino <strong>DISEÑO</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaWQU_WR806J_SlhhH-ryu2iQpIULH6m3bcx0ljfHe_29My0LBgQJBbmp7cfnygLWkVbKI-kAHpu8svhoYPxJjfmYKobZyQ-BKMdCDHEbcfKXlpRNjYIauHwudGBOwcNVc1oLtQ1lmNN8X8UDUFk-F6G=w1280-h163-s-no?authuser=0" width=800 />
+ <p>Algunas de las tecnologías que domino <strong>DISEÑO</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaVmUrFG4SvzH4KPljGoi8HbJIMAWe6jngM6Rzzy5msBlM4BlY5EADRsnPaRMq-N21fCYV7Brl9xJkpnxZa0AFewGnVt-xM1cOSHfnBp50J13rdp-ybcjGcir-Tq8qjQ7xT62JhiwGMR-IN3t11vY7eW=w676-h120-s-no?authuser=0" width=400 />
  
   <p>Algunas de las tecnologías que domino <strong>DESARROLLO WEB</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaV080SCJAH3JbNuBaJabT4KJ6Xkp7skdMraJpbUs2lxkzNIMa-aeVe4XLwIirsfbXjVy108abuMESpzuzUOD1J7hRtvdhHG1qfRvhMKvpREIb0vLzpa7V5gxmw-TdCf92jdqozo84JzuO0Mad2HFtYV=w1280-h163-s-no?authuser=0" width=800 />
    
