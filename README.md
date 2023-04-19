@@ -7,9 +7,9 @@
  
 
  
- <p>Algunas de las tecnologías que domino <strong>DISEÑO</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaVmUrFG4SvzH4KPljGoi8HbJIMAWe6jngM6Rzzy5msBlM4BlY5EADRsnPaRMq-N21fCYV7Brl9xJkpnxZa0AFewGnVt-xM1cOSHfnBp50J13rdp-ybcjGcir-Tq8qjQ7xT62JhiwGMR-IN3t11vY7eW=w676-h120-s-no?authuser=0" width=400 />
+ <p>Algunas de las tecnologías que domino <strong>De DISEÑO</strong>:</br><img src ="https://lh3.googleusercontent.com/pw/AJFCJaVmUrFG4SvzH4KPljGoi8HbJIMAWe6jngM6Rzzy5msBlM4BlY5EADRsnPaRMq-N21fCYV7Brl9xJkpnxZa0AFewGnVt-xM1cOSHfnBp50J13rdp-ybcjGcir-Tq8qjQ7xT62JhiwGMR-IN3t11vY7eW=w676-h120-s-no?authuser=0" width=400 />
  
-  <p>Algunas de las tecnologías que domino <strong>DESARROLLO WEB</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaV080SCJAH3JbNuBaJabT4KJ6Xkp7skdMraJpbUs2lxkzNIMa-aeVe4XLwIirsfbXjVy108abuMESpzuzUOD1J7hRtvdhHG1qfRvhMKvpREIb0vLzpa7V5gxmw-TdCf92jdqozo84JzuO0Mad2HFtYV=w1280-h163-s-no?authuser=0" width=800 />
+  <p>Algunas de las tecnologías que domino <strong>De DESARROLLO WEB</strong>:<img src ="https://lh3.googleusercontent.com/pw/AJFCJaV080SCJAH3JbNuBaJabT4KJ6Xkp7skdMraJpbUs2lxkzNIMa-aeVe4XLwIirsfbXjVy108abuMESpzuzUOD1J7hRtvdhHG1qfRvhMKvpREIb0vLzpa7V5gxmw-TdCf92jdqozo84JzuO0Mad2HFtYV=w1280-h163-s-no?authuser=0" width=800 />
    
  <p>Me encuentro <strong>estudiando</strong> en ratos y cuando puedo <strong>C#</strong> para backend &nbsp<img src="https://lh3.googleusercontent.com/pw/AJFCJaWbn0C--MZXa2CcbDnUVkWa4yCdojclvi2axiJmQoKgJQGhzSnF4pCTLScfPe5MJge2yjyvUPOzeXOrfdmvvpingb-jSfk0egxRtEL2TYZLhdDqiAxb2kBmj8FSMEotytwVsCWwNeJSBf-tzjwlGD9r=w280-h508-s-no?authuser=0" width=28 height=50/></p>
  
